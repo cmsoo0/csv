@@ -1,0 +1,34 @@
+﻿답안,,
+,,
+,,
+"Commissioning, Startup, Operation, and Shutdown",WARNING,Failure to follow these precautions before you start the unit will lead to serious personal injury and equipment failure.
+"Commissioning, Startup, Operation, and Shutdown",WARNING,Do not operate the pump below the minimum rated flows or with the suction or discharge valves closed
+"Commissioning, Startup, Operation, and Shutdown",NOTICE,Verify the driver settings before you start any pump.
+"Commissioning, Startup, Operation, and Shutdown",NOTICE,Make sure that the temperature change does not exceed 35Â°F (19Â°C) per minute.
+Maintenance inspections,Explanation,Shorten the inspection intervals appropriately if the pumped fluid is abrasive or corrosive or if the environment is classified as potentially explosive.
+Routine inspections,Check,"Check for unusual noise, vibration, and bearing temperatures."
+Install the coupling guard,Requirements,"1. End plate, drive end"
+Ex-approved products,Requirements,All work on the product must be carried out by certified electricians and ITT-authorized mechanics. Special rules apply to installations in explosive atmospheres.
+level the baseplate,Install,1. Lower the baseplate carefully onto the foundation bolts.
+level the baseplate,Install,Use the equipment mounting surfaces in order to establish the level.
+Casing areas to inspect,When,"When you see cracks, pitting, or corrosion damage"
+Impeller replacement,When,When grooved deeper than 1/16 in. (1.6 mm)
+Wash the skin and eyes,Condition,Chemicals or hazardous fluids in eyes
+Wash the skin and eyes,Action,3. Seek medical attention.
+,,
+,,
+질의 추론,,
+"Commissioning, Startup, Operation, and Shutdown",Install,Failure to follow these precautions before you start the unit will lead to serious personal injury and equipment failure.
+level the baseplate,NOTICE,3. Seek medical attention.
+Casing areas to inspect,Check,"1. End plate, drive end"
+Maintenance inspections,Explanation,Shorten the inspection intervals appropriately if the pumped fluid is abrasive or corrosive or if the environment is classified as potentially explosive.
+Wash the skin and eyes,WARNING,"Check for unusual noise, vibration, and bearing temperatures."
+Ex-approved products,Requirements,"When you see cracks, pitting, or corrosion damage"
+Wash the skin and eyes,When,1. Lower the baseplate carefully onto the foundation bolts.
+Install the coupling guard,WARNING,Do not operate the pump below the minimum rated flows or with the suction or discharge valves closed
+"Commissioning, Startup, Operation, and Shutdown",NOTICE,All work on the product must be carried out by certified electricians and ITT-authorized mechanics. Special rules apply to installations in explosive atmospheres.
+"Commissioning, Startup, Operation, and Shutdown",Requirements,Make sure that the temperature change does not exceed 35Â°F (19Â°C) per minute.
+level the baseplate,When,Use the equipment mounting surfaces in order to establish the level.
+Impeller replacement,Action,When grooved deeper than 1/16 in. (1.6 mm)
+"Commissioning, Startup, Operation, and Shutdown",Install,Verify the driver settings before you start any pump.
+Routine inspections,Condition,Chemicals or hazardous fluids in eyes
