@@ -1,0 +1,68 @@
+﻿답안,,
+,,
+,,
+"Commissioning, Startup, Operation, and Shutdown",WARNING,Failure to follow these precautions before you start the unit will lead to serious personal injury and equipment failure.
+"Commissioning, Startup, Operation, and Shutdown",WARNING,Do not operate the pump below the minimum rated flows or with the suction or discharge valves closed
+"Commissioning, Startup, Operation, and Shutdown",NOTICE,Verify the driver settings before you start any pump.
+"Commissioning, Startup, Operation, and Shutdown",NOTICE,Make sure that the temperature change does not exceed 35Â°F (19Â°C) per minute.
+Maintenance inspections,Explanation,Shorten the inspection intervals appropriately if the pumped fluid is abrasive or corrosive or if the environment is classified as potentially explosive.
+Routine inspections,Check,"Check for unusual noise, vibration, and bearing temperatures."
+Install the coupling guard,Requirements,"1. End plate, drive end"
+Ex-approved products,Requirements,All work on the product must be carried out by certified electricians and ITT-authorized mechanics. Special rules apply to installations in explosive atmospheres.
+level the baseplate,Install,1. Lower the baseplate carefully onto the foundation bolts.
+level the baseplate,Install,Use the equipment mounting surfaces in order to establish the level.
+Casing areas to inspect,When,"When you see cracks, pitting, or corrosion damage"
+Impeller replacement,When,When grooved deeper than 1/16 in. (1.6 mm)
+Wash the skin and eyes,Condition,Chemicals or hazardous fluids in eyes
+Wash the skin and eyes,Action,3. Seek medical attention.
+,,
+,,
+질의 추론,,
+"Commissioning, Startup, Operation, and Shutdown",Install,Failure to follow these precautions before you start the unit will lead to serious personal injury and equipment failure.
+level the baseplate,NOTICE,3. Seek medical attention.
+Casing areas to inspect,Check,"1. End plate, drive end"
+Maintenance inspections,Explanation,Shorten the inspection intervals appropriately if the pumped fluid is abrasive or corrosive or if the environment is classified as potentially explosive.
+Wash the skin and eyes,WARNING,"Check for unusual noise, vibration, and bearing temperatures."
+Ex-approved products,Requirements,"When you see cracks, pitting, or corrosion damage"
+Wash the skin and eyes,When,1. Lower the baseplate carefully onto the foundation bolts.
+Install the coupling guard,WARNING,Do not operate the pump below the minimum rated flows or with the suction or discharge valves closed
+"Commissioning, Startup, Operation, and Shutdown",NOTICE,All work on the product must be carried out by certified electricians and ITT-authorized mechanics. Special rules apply to installations in explosive atmospheres.
+"Commissioning, Startup, Operation, and Shutdown",Requirements,Make sure that the temperature change does not exceed 35Â°F (19Â°C) per minute.
+level the baseplate,When,Use the equipment mounting surfaces in order to establish the level.
+Impeller replacement,Action,When grooved deeper than 1/16 in. (1.6 mm)
+"Commissioning, Startup, Operation, and Shutdown",Install,Verify the driver settings before you start any pump.
+Routine inspections,Condition,Chemicals or hazardous fluids in eyes
+,,
+,,
+답안,,
+Installation_Preinstallation,WARNING,"When installing in a potentially explosive environment, make sure that the motor is properly certified."
+Baseplate-mounting procedures,Prepare,1. Chip the top of the foundation to a minimum of 1.0 in. (25.0 mm) in order to remove porous or low-strength concrete.
+Baseplate-mounting procedures,NOTICE,Do not use oils or liquid wax.
+Pump-to-driver alignmen,Alignment methods,Detailed instructions for using the dial indicator method are contained in this chapter.
+Permitted indicator values for alignment checks,IMPORTANT,The tolerance of the indicator is 0.0005 in./in. (0.0127 mm/mm) of indicator separation at operating temperature
+Perform parallel alignment for a vertical correction,Then,The pump coupling half (X) is lower than the driver coupling half (Y). 
+Perform complete alignment for a vertical correction,Prepare,4. Make corrections according to the separate instructions for angular and parallel alignment until you obtain the permitted reading values.
+Grout the baseplate,Requirements,5. Allow the grout to set.
+Piping checklists,Check,The hold-down bolts for the pump are tightened.
+Alignment criteria for pump flanges,Type,Concentric
+Discharge piping checklist,Explanation,The isolation valve is required for
+Auxiliary-piping checklist,Install,"You may need to install auxiliary piping for bearing cooling, seal-chamber cover cooling, mechanical seal flush, or other special features supplied with the pump. "
+Final piping checklist,Explanation,Rotate the shaft by hand.
+,,
+,,
+,,
+,,
+테스트,,
+Installation_Preinstallation,Alignment methods,4. Make corrections according to the separate instructions for angular and parallel alignment until you obtain the permitted reading values.
+Baseplate-mounting procedures,IMPORTANT,5. Allow the grout to set.
+Baseplate-mounting procedures,Then,The hold-down bolts for the pump are tightened.
+Piping checklists,WARNING,Detailed instructions for using the dial indicator method are contained in this chapter.
+Alignment criteria for pump flanges,Prepare,The tolerance of the indicator is 0.0005 in./in. (0.0127 mm/mm) of indicator separation at operating temperature
+Discharge piping checklist,NOTICE,The pump coupling half (X) is lower than the driver coupling half (Y). 
+Pump-to-driver alignmen,Explanation,"When installing in a potentially explosive environment, make sure that the motor is properly certified."
+Permitted indicator values for alignment checks,Install,1. Chip the top of the foundation to a minimum of 1.0 in. (25.0 mm) in order to remove porous or low-strength concrete.
+Perform parallel alignment for a vertical correction,Explanation,Do not use oils or liquid wax.
+Auxiliary-piping checklist,Prepare,"You may need to install auxiliary piping for bearing cooling, seal-chamber cover cooling, mechanical seal flush, or other special features supplied with the pump. "
+Final piping checklist,Requirements,Rotate the shaft by hand.
+Perform complete alignment for a vertical correction,Check,Concentric
+Grout the baseplate,Type,The isolation valve is required for
