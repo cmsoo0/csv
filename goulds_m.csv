@@ -1,0 +1,292 @@
+﻿Installation_Preinstallation,WARNING:,"When installing in a potentially explosive environment, make sure that the motor is properly certified."
+Installation_Preinstallation,WARNING:,You must earth (ground) all electrical equipment.
+Installation_Preinstallation,WARNING:,"This applies to the pump equipment, the driver, and any monitoring equipment"
+Installation_Preinstallation,WARNING:,Test the earth (ground) lead to verify that it is connected correctly
+Installation_Preinstallation,NOTICE,Supervision by an authorized ITT representative is recommended to ensure proper installation
+Installation_Preinstallation,NOTICE,Failure to do so may result in equipment damage or decreased performance
+Pump location guidelines,WARNING,Assembled units and their components are heavy.
+Pump location guidelines,WARNING,Failure to properly lift and support this equipment can result in serious physical injury and/or equipment damage.
+Pump location guidelines,WARNING,Lift equipment only at the specifically identified lifting points
+Pump location guidelines,WARNING,"Lifting devices such as eyebolts, slings, and spreaders must be rated, selected, and used for the entire load being lifted."
+Pump location guidelines,Guideline,Make sure that the space around the pump is sufficient
+Pump location guidelines,Guideline,"If you require lifting equipment such as a hoist or tackle, make sure that there is enough space above the pump."
+Pump location guidelines,Guideline,"Protect the unit from weather and water damage due to rain, flooding, and freezing temperatures"
+Pump location guidelines,Guideline,Do not install and operate the equipment in closed systems unless the system is constructed with properly-sized safety devices and control devices.
+Pump location guidelines,Guideline,Take into consideration the occurrence of unwanted noise and vibration.
+Pump location guidelines,Explanation/comment,"This facilitates ventilation, inspection, maintenance, and service."
+Pump location guidelines,Explanation/comment,This makes it easier to properly use the lifting equipment and safely remove and relocate the components to a safe location.
+Pump location guidelines,Explanation/comment,This is applicable if nothing else is specified
+Pump location guidelines,Explanation/comment,Acceptable devices:Pressure relief valves
+Pump location guidelines,Explanation/comment,Acceptable devices:Compression tanks
+Pump location guidelines,Explanation/comment,Acceptable devices:Pressure controls
+Pump location guidelines,Explanation/comment,Acceptable devices:Temperature controls
+Pump location guidelines,Explanation/comment,Acceptable devices:Flow controls
+Pump location guidelines,Explanation/comment,"If the system does not include these devices, consult the engineer or architect in charge before you operate the pump."
+Pump location guidelines,Explanation/comment,The best pump location for noise and vibration absorption is on a concrete floor with subsoil underneath.
+Foundation requirements,Requirements,"The foundation must be able to absorb any type of vibration and form a permanent, rigid support for the unit."
+Foundation requirements,Requirements,"Provide a flat, substantial concrete foundation in order to prevent strain and distortion when you tighten the foundation bolts."
+Foundation requirements,Requirements,Sleeve-type and J-type foundation bolts are most commonly used. Both designs allow movement for the final bolt adjustment.
+Foundation requirements,Sleeve-type bolts,1. Baseplate
+Foundation requirements,Sleeve-type bolts,2. Shims or wedges
+Foundation requirements,Sleeve-type bolts,3. Foundation
+Foundation requirements,Sleeve-type bolts,4. Sleeve
+Foundation requirements,Sleeve-type bolts,5. Dam
+Foundation requirements,Sleeve-type bolts,6. Bolt
+Foundation requirements,J-type bolts,1. Baseplate
+Foundation requirements,J-type bolts,2. Shims or wedges
+Foundation requirements,J-type bolts,3. Foundation
+Foundation requirements,J-type bolts,4. Dam
+Foundation requirements,J-type bolts,5. Bolt
+Baseplate-mounting procedures,Prepare,This procedure assumes you have a basic knowledge of baseplate and foundation design and installation methods.
+Baseplate-mounting procedures,Prepare,"Follow industry-standard procedures, such as API RP 686/ PIP REIE 686, or this procedure before you grout the baseplate."
+Baseplate-mounting procedures,Prepare,"1. Make sure that all baseplate surfaces that will contact grout are free from contamination such as rust, oil, and grime."
+Baseplate-mounting procedures,Prepare,2. Thoroughly clean all baseplate surfaces that will come in contact with grout.
+Baseplate-mounting procedures,Prepare,2. Make sure to use a cleaner that will not leave residue.
+Baseplate-mounting procedures,NOTICE,"You may need to sandblast the surfaces of a baseplate that come in contact with grout, and then coat those surfaces with a primer that is grout-compatible."
+Baseplate-mounting procedures,NOTICE ,Make sure to remove all equipment before sandblasting.
+Baseplate-mounting procedures,Prepare,"3. Make sure that all machined surfaces are free from burrs, rust, paint, or any other type of contamination."
+Baseplate-mounting procedures,Prepare,"3. If necessary, use a honing stone to remove burrs."
+Baseplate-mounting procedures,Prepare,1. Chip the top of the foundation to a minimum of 1.0 in. (25.0 mm) in order to remove porous or low-strength concrete.
+Baseplate-mounting procedures,Prepare,"1. If you use a pneumatic hammer, make sure that it does not contaminate the surface with oil or other moisture."
+Baseplate-mounting procedures,NOTICE,Do not chip the foundation using heavy tools such as jackhammers.
+Baseplate-mounting procedures,NOTICE,This can damage the structural integrity of the foundation.
+Baseplate-mounting procedures,Prepare,2. Remove water or debris from the foundation bolt holes or sleeves.
+Baseplate-mounting procedures,Prepare,"3. If the baseplate uses sleeve-type bolts, then fill the sleeves with a non-binding, moldable material."
+Baseplate-mounting procedures,Prepare,3. Seal the sleeves in order to prevent the grout from entering.
+Baseplate-mounting procedures,Prepare,4. Coat the exposed portion of the anchor bolts with a non-bonding compound such as paste wax in order to prevent the grout from adhering to the anchor bolts.
+Baseplate-mounting procedures,Prepare,4. Do not use oils or liquid wax.
+Baseplate-mounting procedures,Prepare,"5. If recommended by the grout manufacturer, coat the foundation surface with a compatible primer."
+Baseplate-mounting procedures,NOTICE,Illustrations are for reference only and may not depict the particular pump model.
+Baseplate-mounting procedures,Install,1. Lower the baseplate carefully onto the foundation bolts.
+Baseplate-mounting procedures,Install,1. The baseplate will rest on top of the foundation on the jackscrews provided on the baseplate.
+Baseplate-mounting procedures,Install,"2. Adjust the leveling jackscrews, located adjacent to the foundation bolt holes, until the baseplate rests 1Â toÂ 2Â in. (25Â toÂ 50Â mm) above the foundation in order to allow for adequate grouting."
+Baseplate-mounting procedures,Install,2. This provides even support for the baseplate after grouting.
+Baseplate-mounting procedures,Install,3. Level the baseplate to within 0.002Â in./ft. (0.167Â mm/m) of the length or width of the baseplate by adjusting the jackscrews.
+Baseplate-mounting procedures,Install,3. The maximum total variation from one end or side of the baseplate to the other is 0.015Â in. (0.38Â mm).
+Baseplate-mounting procedures,Install,3. Use the equipment mounting surfaces in order to establish the level.
+Baseplate-mounting procedures,Install,4. Use a non-bonding (anti-seize) compound such as paste wax to coat the portions of the jackscrews that will contact the grout.
+Baseplate-mounting procedures,Install,4. This facilitates removal of the screws after grouting.
+Baseplate-mounting procedures,NOTICE,Do not use oils or liquid wax.
+Baseplate-mounting procedures,Install,5. Thread the nuts onto the foundation bolts and hand-tighten.
+Baseplate-mounting procedures,Install,1. Mount and fasten the pump on the baseplate. Use applicable bolts.
+Baseplate-mounting procedures,Install,2. Mount the driver on the baseplate. Use applicable bolts and hand tighten.
+Baseplate-mounting procedures,Install,3. Install the coupling.
+Baseplate-mounting procedures,Install,3. See the installation instructions from the coupling manufacturer.
+Pump-to-driver alignment_Precautions,WARNING,Follow shaft alignment procedures in order to prevent catastrophic failure of drive components or unintended contact of rotating parts.
+Pump-to-driver alignment_Precautions,WARNING,Follow the coupling installation and operation procedures from the coupling manufacturer.
+Pump-to-driver alignment_Precautions,WARNING,Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks.
+Pump-to-driver alignment_Precautions,WARNING,Failure to disconnect and lock out driver power will result in serious physical injury.
+Pump-to-driver alignment_Precautions,NOTICE,Proper alignment is the responsibility of the installer and the user of the unit
+Pump-to-driver alignment_Precautions,NOTICE,Check the alignment of frame-mounted units before you operate the unit.
+Pump-to-driver alignment_Precautions,NOTICE,Failure to do so can result in equipment damage or decreased performance.
+Pump-to-driver alignmen,Alignment methods,Dial indicator
+Pump-to-driver alignmen,Alignment methods,Reverse dial indicator
+Pump-to-driver alignmen,Alignment methods,Laser
+Pump-to-driver alignmen,Alignment methods,Follow the instructions from the equipment manufacturer when you use the reverse dial indicator or laser methods.
+Pump-to-driver alignmen,Alignment methods,Detailed instructions for using the dial indicator method are contained in this chapter.
+Alignment checks,When,The process temperature changes
+Alignment checks,When,The piping changes.
+Alignment checks,When,The pump has been serviced.
+Alignment checks,Type of check,Initial alignment (cold alignment) check
+Alignment checks,Type of check,Final alignment (hot alignment) check
+Alignment checks,When,Prior to operation when the pump and the driver are at ambient temperature.
+Alignment checks,When,After operation when the pump and the driver are at operating  temperature.
+Alignment checks_Cold Allignment,When,Before you grout the baseplate
+Alignment checks_Cold Allignment,When,After you grout the baseplate
+Alignment checks_Cold Allignment,When,After you connect the piping
+Alignment checks_Cold Allignment,Why,This ensures that alignment can be accomplished.
+Alignment checks_Cold Allignment,Why,This ensures that no changes have occurred during the grouting process.
+Alignment checks_Cold Allignment,Why,This ensures that pipe strains have not altered the alignment.
+Alignment checks_Cold Allignment,Why,"If changes have occurred, you must alter the piping to remove pipe strains on the pump flanges."
+Alignment checks_Hot Allignment,When,After the first run
+Alignment checks_Hot Allignment,When,Periodically
+Alignment checks_Hot Allignment,Why,This ensures correct alignment when both the pump and the driver are at operating temperature.
+Alignment checks_Hot Allignment,Why,This follows the plant operating procedures.
+Permitted indicator values for alignment checks,NOTICE,The specified permitted reading values are valid only at operating temperature
+Permitted indicator values for alignment checks,NOTICE,"For cold settings, other values are permitted. You must use the correct tolerances"
+Permitted indicator values for alignment checks,NOTICE,Failure to do so can result in misalignment and reduced pump reliability.
+Permitted indicator values for alignment checks,IMPORTANT,"For electric motors, the motor shaft initial (cold) parallel vertical alignment setting should be 0.002 to 0.004 in."
+Permitted indicator values for alignment checks,IMPORTANT,(0.05 to 0.10 mm) lower than the pump shaft.
+Permitted indicator values for alignment checks,IMPORTANT,"For other drivers such as turbines and engines, follow the driver manufacturer's recommendations."
+Permitted indicator values for alignment checks,IMPORTANT,"When dial indicators are used to check the final alignment, the pump and drive unit are correctly aligned when these conditions are true:"
+Permitted indicator values for alignment checks,IMPORTANT,The total indicator runout is a maximum of 0.002 in. (0.05 mm) at operating temperature.
+Permitted indicator values for alignment checks,IMPORTANT,The tolerance of the indicator is 0.0005 in./in. (0.0127 mm/mm) of indicator separation at operating temperature
+Alignment measurement guidelines,Guideline,Rotate the pump coupling half and the driver coupling half together so that the indicator rods have contact with the same points on the driver coupling half.
+Alignment measurement guidelines,Guideline,Move or shim only the driver in order to make adjustments.
+Alignment measurement guidelines,Guideline,Make sure that the hold-down bolts for the movedriver feet are tight when you take indicator measurements.
+Alignment measurement guidelines,Guideline,Make sure that the hold-down bolts for the driver feet are loose before you make alignment corrections.
+Alignment measurement guidelines,Guideline,Check the alignment again after any mechanical adjustments.
+Alignment measurement guidelines,Explanation,This prevents incorrect measurement.
+Alignment measurement guidelines,Explanation,This prevents strain on the piping installations.
+Alignment measurement guidelines,Explanation,This keeps the driver stationary since movement causes incorrect measurement.
+Alignment measurement guidelines,Explanation,This makes it possible to move the driver when you make alignment corrections.
+Alignment measurement guidelines,Explanation,This corrects any misalignments that an adjustment may have caused.
+Perform angular alignment for a vertical correction,Prepare,1. Set the angular alignment indicator to zero at the top-center position (12 o’clock) of the driver coupling half (Y).
+Perform angular alignment for a vertical correction,Prepare,2. Rotate the indicator to the bottom-center position (6 o’clock).
+Perform angular alignment for a vertical correction,Prepare,3. Record the indicator reading.
+Perform angular alignment for a vertical correction,When,Negative
+Perform angular alignment for a vertical correction,When,Positive
+Perform angular alignment for a vertical correction,Then,The coupling halves are farther apart at the bottom than at the top. Perform one of these steps
+Perform angular alignment for a vertical correction,Then,Add shims in order to raise the feet of the driver at the shaft end.
+Perform angular alignment for a vertical correction,Then,Remove shims in order to lower the feet of the driver at the other end.
+Perform angular alignment for a vertical correction,Then,The coupling halves are closer at the bottom than at the top. Perform one of these steps:
+Perform angular alignment for a vertical correction,Then,Remove shims in order to lower the feet of the driver at the shaft end.
+Perform angular alignment for a vertical correction,Then,Add shims in order to raise the feet of the driver at the other end.
+Perform angular alignment for a vertical correction,When,4. Repeat the previous steps until the permitted reading value is achieved.
+Perform angular alignment for a horizontal correction,Prepare,"1. Set the angular alignment indicator (A) to zero on left side of the driver coupling half (Y), 90° from the top-center position (9 o’clock)."
+Perform angular alignment for a horizontal correction,Prepare,"2. Rotate the indicator through the top-center position to the right side, 180° from the start position (3 o’clock)."
+Perform angular alignment for a horizontal correction,Prepare,3. Record the indicator reading.
+Perform angular alignment for a horizontal correction,When,Negative
+Perform angular alignment for a horizontal correction,When,Positive
+Perform angular alignment for a horizontal correction,Then,The coupling halves are farther apart on the right side than the left. Perform one of these steps:
+Perform angular alignment for a horizontal correction,Then,Slide the shaft end of the driver to the left.
+Perform angular alignment for a horizontal correction,Then,Slide the opposite end to the right.
+Perform angular alignment for a horizontal correction,Then,The coupling halves are closer together on the right side than the left. Perform one of these steps:
+Perform angular alignment for a horizontal correction,Then,Slide the shaft end of the driver to the right.
+Perform angular alignment for a horizontal correction,Then,Slide the opposite end to the left.
+Perform angular alignment for a horizontal correction,Prepare,4. Repeat the previous steps until the permitted reading value is achieved.
+Perform parallel alignment for a vertical correction,Prepare,"Before you start this procedure, make sure that the dial indicators are correctly set up."
+Perform parallel alignment for a vertical correction,Prepare,A unit is in parallel alignment when the parallel indicator (P) does not vary by more than 0.002 in. (0.05 mm) as measured at four points 90° apart at the operating temperature.
+Perform parallel alignment for a vertical correction,Prepare,1. Set the parallel alignment indicator (P) to zero at the top-center position (12 o’clock) of the driver coupling half (Y).
+Perform parallel alignment for a vertical correction,Prepare,2. Rotate the indicator to the bottom-center position (6 o’clock).
+Perform parallel alignment for a vertical correction,Prepare,3. Record the indicator reading.
+Perform parallel alignment for a vertical correction,When,Negative
+Perform parallel alignment for a vertical correction,When,Positive
+Perform parallel alignment for a vertical correction,Then,The pump coupling half (X) is lower than the driver coupling half (Y). 
+Perform parallel alignment for a vertical correction,Then,Remove shims of a thickness equal to half of the indicator reading value under each driver foot.
+Perform parallel alignment for a vertical correction,Then,The pump coupling half (X) is higher than the driver coupling half (Y). 
+Perform parallel alignment for a vertical correction,Then,Add shims of a thickness equal to half of the indicator reading value to each driver foot.
+Perform parallel alignment for a vertical correction,NOTICE,You must use an equal amount of shims with each driver foot to prevent misalignment.
+Perform parallel alignment for a vertical correction,NOTICE,Failure to do so can result in equipment damage or decreased performance.
+Perform parallel alignment for a vertical correction,Prepare,4. Repeat the previous steps until the permitted reading value is achieved.
+Perform parallel alignment for a horizontal correction,Prepare,A unit is in parallel alignment when the parallel indicator (P) does not vary by more than 0.002 in. 
+Perform parallel alignment for a horizontal correction,Prepare,(0.05 mm) as measured at four points 90° apart at the operating temperature.
+Perform parallel alignment for a horizontal correction,Prepare,"1. Set the parallel alignment indicator (P) to zero on the left side of the driver coupling half (Y), 90° from the top-center position (9 o’clock)."
+Perform parallel alignment for a horizontal correction,Prepare,"2. Rotate the indicator through the top-center position to the right side, 180° from the start position (3 o’clock)."
+Perform parallel alignment for a horizontal correction,Prepare,3. Record the indicator reading.
+Perform parallel alignment for a horizontal correction,When,Negative
+Perform parallel alignment for a horizontal correction,When,Positive
+Perform parallel alignment for a horizontal correction,Then,The driver coupling half (Y) is to the left of the pump coupling half (X).
+Perform parallel alignment for a horizontal correction,Then,The driver coupling half (Y) is to the right of the pump coupling half (X).
+Perform parallel alignment for a horizontal correction,Prepare,4. Slide the driver carefully in the appropriate direction.
+Perform parallel alignment for a horizontal correction,NOTICE,Make sure to slide the driver evenly. Failure to do so can negatively affect horizontal angular correction.
+Perform parallel alignment for a horizontal correction,Prepare,5. Repeat the previous steps until the permitted reading value is achieved.
+Perform complete alignment for a vertical correction,Prepare,A unit is in complete alignment when both the angular indicator (A) and the parallel indicator (P) do not vary by more than 0.002 in. 
+Perform complete alignment for a vertical correction,Prepare,(0.05 mm) as measured at four points 90° apart.
+Perform complete alignment for a vertical correction,Prepare,1. Set the angular and parallel dial indicators to zero at the top-center position (12 o’clock) of the driver coupling half (Y).
+Perform complete alignment for a vertical correction,Prepare,2. Rotate the indicators to the bottom-center position (6 o’clock).
+Perform complete alignment for a vertical correction,Prepare,3. Record the indicator readings.
+Perform complete alignment for a vertical correction,Prepare,4. Make corrections according to the separate instructions for angular and parallel alignment until you obtain the permitted reading values.
+Perform complete alignment for a horizontal correction,Prepare,"1. Set the angular and parallel dial indicators to zero at the left side of the driver coupling half (Y), 90° from the top-center position (9 o’clock)."
+Perform complete alignment for a horizontal correction,Prepare,"2. Rotate the indicators through the top-center position to the right side, 180° from the start position (3 o’clock)."
+Perform complete alignment for a horizontal correction,Prepare,3. Record the indicator readings.
+Perform complete alignment for a horizontal correction,Prepare,4. Make corrections according to the separate instructions for angular and parallel alignment until you obtain the permitted reading values.
+Grout the baseplate,Requirements,Cleaners: Do not use an oil-based cleaner because the grout will not bond to it. 
+Grout the baseplate,Requirements,See the instructions provided by the grout manufacturer.
+Grout the baseplate,Requirements,Grout: Non-shrink grout is recommended.
+Grout the baseplate,NOTICE,It is assumed that the installer who grouts the baseplate has knowledge of acceptable methods. 
+Grout the baseplate,NOTICE,"More detailed procedures are described in various publications, including API Standard 610, 10th Edition, Appendix L; API RP 686, Chapter 5; and other industry standards."
+Grout the baseplate,Requirements,1. Clean all the areas of the baseplate that will come into contact with the grout.
+Grout the baseplate,Requirements,2. Build a dam around the foundation.
+Grout the baseplate,Requirements,3. Thoroughly wet the foundation that will come into contact with the grout.
+Grout the baseplate,Requirements,4. Pour grout through the grout hole into the baseplate up to the level of the dam.
+Grout the baseplate,Requirements,"When you pour the grout, remove air bubbles from it by using one of these methods"
+Grout the baseplate,Requirements,Puddle with a vibrator.
+Grout the baseplate,Requirements,Pump the grout into place.
+Grout the baseplate,Requirements,5. Allow the grout to set.
+Piping checklists_General piping checklist,CAUTION,Never draw piping into place by using force at the flanged connections of the pump. 
+Piping checklists_General piping checklist,CAUTION,This can impose dangerous strains on the unit and cause misalignment between the pump and driver. 
+Piping checklists_General piping checklist,CAUTION,"Pipe strain adversely affects the operation of the pump, which results in physical injury and damage to the equipment."
+Piping checklists_General piping checklist,CAUTION,Vary the capacity with the regulating valve in the discharge line. 
+Piping checklists_General piping checklist,CAUTION,Never throttle the flow from the suction side.
+Piping checklists_General piping checklist,CAUTION,"This action can result in decreased performance, unexpected heat generation, and equipment damage."
+Piping checklists_General piping checklist,NOTICE,"Flange loads from the piping system, including those from the thermal expansion of the piping, must not exceed the limits of the pump. "
+Piping checklists_General piping checklist,NOTICE,"Casing deformation can result in contact with rotating parts, which can result in excess heat generation, sparks, and premature failure."
+Piping checklists_General piping checklist,Guideline,"Guidelines for piping are given in the Hydraulic Institute Standards available from the Hydraulic Institute at 9 Sylvan Way, Parsippany, NJ 07054-3802. "
+Piping checklists_General piping checklist,Guideline,You must review this document before you install the pump.
+Piping checklists,Check,"Check that all piping is supported independently of, and lined up naturally with, the pump flange."
+Piping checklists,Explanation,This helps to prevent
+Piping checklists,Explanation,Strain on the pump
+Piping checklists,Explanation,Misalignment between the pump and the drive unit
+Piping checklists,Check,See Alignment criteria for pump flanges.
+Piping checklists,Explanation,"Wear on the pump bearings, seal, and shafting"
+Piping checklists,Check,Check that only necessary fittings are used.
+Piping checklists,Check,Do not connect the piping to the pump until:
+Piping checklists,Check,The grout for the baseplate or sub-base becomes hard.
+Piping checklists,Check,The hold-down bolts for the pump are tightened.
+Piping checklists,Check,Make sure that all the piping joints and fittings are airtight.
+Piping checklists,Check,"If the pump handles corrosive fluids, make sure that the piping allows you to flush out the liquid before you remove the pump."
+Piping checklists,Check,"If the pump handles liquids at elevated temperatures, make sure that the expansion loops and joints are properly installed"
+Piping checklists,Explanation,This helps to minimize friction losses.
+Piping checklists,Explanation,This prevents air from entering the piping system or leaks that occur during operation.
+Piping checklists,Explanation,This helps to prevent misalignment due to thermal expansion of the piping.
+Alignment criteria for pump flanges,Type,Axial
+Alignment criteria for pump flanges,Type,Parallel
+Alignment criteria for pump flanges,Type,Concentric
+Alignment criteria for pump flanges,Criteria,The flange gasket thickness is ±0.03 in. (0.8 mm).
+Alignment criteria for pump flanges,Criteria,Align the flange to be within 0.001 in./in. to 0.03 in./in. (0.025 mm/mm to 0.8 mm/mm) of the flange diameter.
+Alignment criteria for pump flanges,Concentric,You can easily install the flange bolts by hand.
+Suction-piping checklist_Performance curve reference,CAUTION,Vary the capacity with the regulating valve in the discharge line.
+Suction-piping checklist_Performance curve reference,CAUTION,Never throttle the flow from the suction side. 
+Suction-piping checklist_Performance curve reference,CAUTION,"This action can result in decreased performance, unexpected heat generation, and equipment damage."
+Suction-piping checklist_Performance curve reference,CAUTION,Net positive suction head available (NPSHA) must always exceed NPSH required (NPSHR) as shown on the published performance curve of the pump.
+Suction-piping checks,Check,Check that elbows in general do not have sharp bends.
+Suction-piping checks,Check,Check that the suction piping is one or two sizes larger than the suction inlet of the pump.
+Suction-piping checks,Check,Install an eccentric reducer between the pump inlet and the suction piping.
+Suction-piping checks,Check,Check that the eccentric reducer at the suction flange of the pump has the following properties
+Suction-piping checks,Check,Sloping side down
+Suction-piping checks,Check,Horizontal side at the top
+Suction-piping checks,Check,"If suction strainers or suction bells are used, check that they are at least three times the area of the suction piping."
+Suction-piping checks,Check,"If more than one pump operates from the same liquid source, check that separate suction-piping lines are used for each pump."
+Suction-piping checks,Check,"If necessary, make sure that the suction piping includes a drain valve and that it is correctly installed."
+Suction-piping checks,Explanation,This minimizes the risk of cavitation in the suction inlet of the pump due to turbulence.
+Suction-piping checks,Explanation,The suction piping must never have a smaller diameter than the suction inlet of the pump.
+Suction-piping checks,Explanation,Suction strainers help to prevent clogging.
+Suction-piping checks,Explanation,Mesh holes with a minimum diameter of 1/16 in. (1.6 mm) are recommended.
+Suction-piping checks,Explanation,This recommendation helps you to achieve a higher pump performance.
+Liquid source below the pump,Check,Make sure that the suction piping is free from air pockets.
+Liquid source below the pump,Check,Check that the suction piping slopes upwards from the liquid source to the pump inlet.
+Liquid source below the pump,Check,"If the pump is not self-priming, check that a device for priming the pump is installed."
+Liquid source below the pump,Explanation,This helps to prevent the occurrence of air and cavitation in the pump inlet.
+Liquid source below the pump,Explanation,Use a foot valve with a diameter that is at least equivalent to the diameter of the suction piping.
+Liquid source above the pump,Check,Check that an isolation valve is installed in the suction pipinguction piping at a distance of at least two times the pipe diameter from the suction inlet.
+Liquid source above the pump,Explanation,This permits you to close the line during pump inspection and maintenance.
+Liquid source above the pump,Explanation,Do not use the isolation valve to throttle the pump.
+Liquid source above the pump,Explanation,Throttling can cause these problems
+Liquid source above the pump,Explanation,Loss of priming
+Liquid source above the pump,Explanation,Excessive temperatures
+Liquid source above the pump,Explanation,Damage to the pump
+Liquid source above the pump,Explanation,Voiding the warranty
+Liquid source above the pump,Check,Make sure that the suction piping is free from air pockets.
+Liquid source above the pump,Check,Check that the piping is level or slopes downward from the liquid source.
+Liquid source above the pump,Check,Make sure that no part of the suction piping extends below the suction flange of the pump.
+Liquid source above the pump,Check,Make sure that the suction piping is adequately submerged below the surface of the liquid source.
+Liquid source above the pump,Explanation,This helps to prevent the occurrence of air and cavitation in the pump inlet.
+Liquid source above the pump,Explanation,This prevents air from entering the pump through a suction vortex.
+Discharge piping checklist,Check,Check that an isolation valve is installed in the discharge line.
+Discharge piping checklist,Check,"Check that a check valve is installed in the discharge line, between the isolation valve and the pump discharge outlet."
+Discharge piping checklist,Check,"If increasers are used, check that they are installed between the pump and the check valve."
+Discharge piping checklist,Check,"If quick-closing valves are installed in the system, check that cushioning devices are used."
+Discharge piping checklist,Explanation,The isolation valve is required for
+Discharge piping checklist,Explanation,Priming
+Discharge piping checklist,Explanation,Regulation of flow
+Discharge piping checklist,Explanation,Inspection and maintenance of the pump
+Discharge piping checklist,Explanation,The location between the isolation valve and the pump allows inspection of the check valve.
+Discharge piping checklist,Explanation,"The check valve prevents damage to the pump and seal due to the back flow through the pump, when the drive unit is shut off. "
+Discharge piping checklist,Explanation,It is also used to restrain the liquid flow.
+Discharge piping checklist,Explanation,This protects the pump from surges and water hammer.
+Auxiliary-piping checklist,WARNING,"Cooling systems such as those for bearing lubrication and mechanical-seal systems must be operating properly to prevent excess heat generation, sparks, and premature failure."
+Auxiliary-piping checklist,WARNING,"Sealing systems that are not self-purging or self-venting, such as plan 23, require manual venting prior to operation. "
+Auxiliary-piping checklist,WARNING,Failure to do so will result in excess heat generation and seal failure.
+Auxiliary-piping checklist,NOTICE,The mechanical seal must have an appropriate seal-flush system. 
+Auxiliary-piping checklist,NOTICE,"Otherwise, excess heat generation and seal failure can occur."
+Auxiliary-piping checklist,Install,"You may need to install auxiliary piping for bearing cooling, seal-chamber cover cooling, mechanical seal flush, or other special features supplied with the pump. "
+Auxiliary-piping checklist,Install,Consult the pump data sheet for specific auxiliary piping recommendations.
+Auxiliary-piping checklist,Check,Check that the minimum flow for each component is 1 gpm (4 lpm).
+Auxiliary-piping checklist,Check,"If the bearing and seal chamber cover cooling are provided, then the auxiliary piping must flow at 2 gpm (8 lpm)."
+Auxiliary-piping checklist,Check,Check that the cooling water pressure does not exceed 100 psig (7.0 kg/cm2).
+Final piping checklist,Check,Check that the shaft rotates smoothly.
+Final piping checklist,Check,Re-check the alignment to make sure that pipe strain has not caused any misalignment.
+Final piping checklist,Explanation,Rotate the shaft by hand.
+Final piping checklist,Explanation,Make sure there is no rubbing that can lead to excess heat generation or sparks.
+Final piping checklist,Explanation,"If pipe strain exists, then correct the piping."
